@@ -91,12 +91,12 @@ ul {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 li {
     width: 350px;
     height: 354px;
-    margin-right: 20px;
     overflow: hidden;
     margin-bottom: 37px;
     background-color: white;
